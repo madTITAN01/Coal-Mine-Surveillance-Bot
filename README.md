@@ -56,7 +56,7 @@ This project demonstrates the application of **IoT, embedded systems, and roboti
 💡 Passionate about Robotics, IoT, and Embedded Systems  
 
 📫 *Connect with me:*  
-[![GitHub](https://img.shields.io/badge/GitHub-AnkitGhosh-black?logo=github)](https://github.com/madTITAN01)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnkitGhosh-blue?logo=linkedin)](https://www.linkedin.com/in/ankit-ghosh-b6baa9247/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ankit_Ghosh-black?logo=github)](https://github.com/madTITAN01)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit_Ghosh-blue?logo=linkedin)](https://www.linkedin.com/in/ankit-ghosh-449678390)
 
 ---
